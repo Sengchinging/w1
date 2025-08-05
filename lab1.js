@@ -1,6 +1,6 @@
 let math = 110;
 let khmer = 65;
-let chemistry = 60;
+let chemistry = 100;
 let physics = 70;
 let history = 45;
 let biology = 40;
